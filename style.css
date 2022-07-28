@@ -1,0 +1,390 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family: poppins;
+}
+h1{
+  font-family: raleway;
+}
+button{
+  color: #ffffff;
+  border: none;
+  background-color: #8bb7a2;
+  font-size: 15px;
+}
+
+/* hero-1 */
+/* navbar */
+
+.hero-1{
+  width: 80%;
+  float: left;
+  padding: 30px 150px;
+  background-color: #636c79;
+}
+.hero-1 .nav .logo{
+  float: left;
+}
+.hero-1 .nav .logo img{
+  width: 100px;
+  float: left;
+}
+.hero-1 .nav .grow-list{
+  float: left;
+}
+.hero-1 .nav .grow-list .list{
+  list-style-type: none;
+  display: flex;
+  margin-left: 370px;
+}
+.hero-1 .nav .grow-list .list li{
+  color: #ffffff;
+  margin-left: 20px;
+  margin-right: 20px;
+  padding-top: 2px;
+}
+.hero-1 .nav .button-group button{
+  padding: 5px 20px;
+  background-color: transparent;
+  color: #ffffff;
+  border: 1px solid #ffffff;
+  float: left;
+  margin-left: 50px;
+}
+
+
+.hero-1 .down .left{
+  width: 40%;
+  float: left;
+}
+.hero-1 .down .left img{
+  width: 80%;
+  margin-top: 30px;
+  border-radius: 5px;
+  border: none;
+  margin-right: 50px;
+  padding: 50px 0px;
+}
+.hero-1 .down .right{
+  width: 35%;
+  float: left;
+  padding-left: 50px;
+  padding-top: 120px;
+  color: #ffffff;
+  float: left;
+} 
+.hero-1 .down .right h1{
+  font-weight: bold;
+  font-size: 50px;
+}
+.hero-1 .down .right p{
+  padding-top: 20px;
+  padding-bottom: 20px;
+  float: left;
+}
+.hero-1 .down .down-1{
+  width: 34%;
+  height: 50px;
+  border: none;
+  margin-left: 50px;
+  float: left;
+  margin-top: 50px;
+  background-color: #ffffff;
+}
+.hero-1 .down .down-1 img{
+  width: 7%;
+  padding-top: 10px;
+  padding-left: 10px;
+  float: left;
+}
+.hero-1 .down .down-1 input{
+  border: none;
+  padding-top: 15px;
+  padding-left: 10px;
+  float: left;
+}
+.hero-1 .down .down-1 button{
+  padding: 10px 30px;
+  margin-top: 5px;
+  margin-left: 75px;
+}
+
+
+/* hero-2 */
+.hero-2{
+  width: 80%;
+  float: left;
+  padding: 30px 150px;
+}
+.hero-2 .up{
+  text-align: center;
+  width: 40%;
+  padding-left: 380px;
+  padding-top: 80px;
+}
+.hero-2 .down{
+  width: 80%;
+  float: left;
+  padding: 30px 180px;
+}
+.hero-2 .down .card{
+  float: left;
+  width: 20%;
+  padding: 10px 10px;
+  margin-right: 10px;
+  margin-left: 10px;
+}
+.hero-2 .imagia img{
+  width: 80%;
+  padding: 20px 120px;
+}
+
+
+
+/* hero-3 */
+.hero-3{
+  width: 80%;
+  float: left;
+  padding: 30px 150px;
+}
+.hero-3 .up{
+  padding-top: 30px;
+  padding-bottom: 30px;
+  text-align: center;
+}
+.hero-3 .down .left{
+  width: 35%;
+  float: left;
+  padding: 30px 50px;
+}
+.hero-3 .down .left h1{
+  padding-top: 30px;
+}
+.hero-3 .down .left p{
+  padding-top: 20px;
+}
+.hero-3 .down .left button{
+  margin-top: 30px;
+  padding: 10px 30px;
+}
+.hero-3 .down .right{
+  width: 55%;
+  float: left;
+}
+.hero-3 .down .right img{
+  width: 60%;
+  padding-left: 150px;
+}
+
+
+/* hero-4 */
+.hero-4{
+  width: 80%;
+  float: left;
+  padding: 30px 150px;
+}
+
+.hero-4 .left{
+  width: 55%;
+  float: left;
+}
+.hero-4 .left img{
+  width: 60%;
+  padding-left: 50px;
+}
+
+.hero-4 .right{
+  width: 35%;
+  float: left;
+  padding: 30px 0px;
+}
+.hero-4 .right h1{
+  padding-top: 30px;
+}
+.hero-4 .right p{
+  padding-top: 20px;
+}
+.hero-4 .right button{
+  margin-top: 30px;
+  padding: 10px 30px;
+}
+
+
+/* hero-5 */
+
+
+.hero-5{
+  width: 80%;
+  float: left;
+  padding: 30px 150px;
+}
+
+.hero-5 .left{
+  width: 35%;
+  float: left;
+  padding: 30px 50px;
+}
+.hero-5 .left h1{
+  padding-top: 30px;
+}
+.hero-5 .left p{
+  padding-top: 20px;
+}
+.hero-5 .left button{
+  margin-top: 30px;
+  padding: 10px 30px;
+}
+.hero-5 .right{
+  width: 55%;
+  float: left;
+}
+.hero-5 .right img{
+  width: 60%;
+  padding-left: 150px;
+}
+
+
+/* hero-6 */
+
+.hero-6{
+  width: 70%;
+  float: left;
+  padding: 30px 200px;
+  margin-top: 50px;
+}
+.hero-6 .left{
+  width: 48%;
+  float: left;
+}
+.hero-6 .right{
+  width: 50%;
+  float: left;
+}
+
+
+
+/* hero-7 */
+
+.hero-7{
+  width: 70%;
+  float: left;
+  padding: 30px 180px;
+}
+.hero-7 .card{
+  width: 27%;
+  float: left;
+  padding: 10px 30px;
+}
+.hero-7 .card img{
+  width: 100%;
+}
+.hero-7 .button-1 button{
+  padding: 10px 30px;
+  margin-top: 30px;
+  margin-left: 120px;
+  margin-bottom: 50px;
+}
+
+
+/* hero-8 */
+
+.hero-8{
+  float: left;
+  width: 100%;
+  background-color: #10181d;
+}
+.hero-8 hr{
+  width: 80%;
+  margin-left: 130px;
+}
+
+.top{
+  float: left;
+  width: 100%;    
+  color: #ffffff;
+  font-size:1.5rem;
+  font-weight: lighter;
+  padding: 25px 0px;
+}
+.logo-details img{
+  float: left;
+  width: 7%;
+  padding-left: 150px;
+  margin-top: 5px;
+  font-size: 30px;
+}
+.media-icons{
+  float: left;
+  width: 20%;
+  padding-left: 800px;
+}
+.fa-facebook-f{
+  background-color: #282f34;
+  margin: 5px;
+  border-radius: 100%;
+  font-size: 15px;
+  padding: 10px;
+}
+.fa-twitter{
+  background-color: #282f34;
+  margin: 5px;
+  border-radius: 100%;
+  font-size: 15px;
+  padding: 10px;
+}
+.fa-instagram{
+  background-color: #282f34;
+  margin: 5px;
+  border-radius: 100%;
+  font-size: 15px;
+  padding: 10px;
+}
+.fa-github{
+  background-color: #282f34;
+  margin: 5px;
+  border-radius: 100%;
+  font-size: 15px;
+  padding: 10px;
+}
+
+
+.link-boxes{
+  margin-top: 1px;
+  float: left;
+  width: 90%;
+  color: #ffffff;
+  padding-left: 90px;
+}
+.link-boxes .link_name{
+  font-size: 20px;
+  font-weight: 300px;
+  display: inline-block;
+  position: relative;
+  margin-bottom: 8px;
+}
+
+.link-boxes a{
+  text-decoration: none;
+  color: #ffffff8c;
+  font-size: 14px;
+}
+.media-icons a{
+  text-decoration: none;
+  color: #ffffff;
+}
+.box{
+  float: left;
+  width: 15%;
+  list-style: none;
+  margin-left: 50px;
+  padding: 50px 0px;
+  line-height: 2;
+}
+.box li{
+  padding: 5px 0px;
+}
