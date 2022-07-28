@@ -25,19 +25,19 @@
 
 ## About The Project
 
-![Project 11](./ss/LCO-12-1.png)
+![Project 12](./ss/LCO-12-1.png)
 
-![Project 11](./ss/LCO-12-2.png)
+![Project 12](./ss/LCO-12-2.png)
 
-![Project 11](./ss/LCO-12-3.png)
+![Project 12](./ss/LCO-12-3.png)
 
-![Project 11](./ss/LCO-12-4.png)
+![Project 12](./ss/LCO-12-4.png)
 
-![Project 11](./ss/LCO-12-5.png)
+![Project 12](./ss/LCO-12-5.png)
 
-![Project 11](./ss/LCO-12-6.png)
+![Project 12](./ss/LCO-12-6.png)
 
-![Project 11](./ss/LCO-12-7.png)
+![Project 12](./ss/LCO-12-7.png)
 
 
 Here's a Screen-Shot of my project-12 and I learnt Most of my usefull Future of HTML and CSS.
